@@ -1,4 +1,4 @@
-FROM adoptopenjdk:17-jre-hotspot-alpine3.14
+FROM openjdk:17.0.1-slim
 
 EXPOSE 8080
 
